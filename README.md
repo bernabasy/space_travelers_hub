@@ -40,24 +40,13 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Languages</summary>
+  
   <ul>
     <li>React</li>
     <li>Redux</li>
     <li>React Bootstrap</li>
   </ul>
-</details>
-<details>
-  <summary>Bundler</summary>
-  <ul>
-    <li>Webpack</li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>Github</li>
-  </ul>
+
 </details>
 
 <!-- Features -->
